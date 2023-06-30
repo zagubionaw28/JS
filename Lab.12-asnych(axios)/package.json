@@ -1,0 +1,20 @@
+{
+  "name": "Lab12P",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.42.0",
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "axios": "^1.4.0"
+  },
+    "scripts": {
+    "zad1": "nodemon src/zad_01.js",
+    "zad2": "nodemon src/zad_02.js",
+    "zad3": "nodemon src/zad_03.js",
+    "zad4": "nodemon src/zad_04.js",
+    "zad5": "nodemon src/zad_05.js"
+  }
+}
